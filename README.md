@@ -1,6 +1,6 @@
 # MCP Spotify Integration
 
-This repository demonstrates integrating Spotify with a custom MCP (Model Context Protocol) server to control playback using MCP-based commands.
+This repository demonstrates integrating Spotify with a custom MCP server to control playback.
 
 ## Features
 - Connect to Spotify and control playback
